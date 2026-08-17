@@ -7,6 +7,9 @@ This project presents an interactive **Power BI dashboard** designed to analyze 
 The dashboard applies **RFM (Recency, Frequency, Monetary) analysis** to segment customers based on their purchasing behavior and provides business-focused insights that can support customer retention and revenue growth strategies.
 
 ---
+## 📊 Dashboard Preview
+
+![Customer Revenue & RFM Analysis Dashboard](BI_Poject_RFM.png)
 
 ## 🎯 Project Objectives
 
@@ -127,7 +130,7 @@ Based on the dashboard analysis:
 
 ## 👤 Author
 
-**Praveen Kumar**
+**Praveen Kumar R**
 
 Aspiring Data Analyst focused on transforming data into actionable business insights.
 
