@@ -108,8 +108,10 @@ Based on the dashboard analysis:
 
 ## 📂 Project Files
 
-* `Customer_Revenue_RFM_Analysis_Dashboard.pbix` — Power BI dashboard file
-* `README.md` — Project documentation
+## 📁 Project Files
+
+- [Customer Revenue RFM Analysis Dashboard.pbix](./Customer%20Revenue%20RFM%20Analysis%20Dashboard.pbix) — Power BI dashboard file
+- [BI_Project_RFM.png](./BI_Project_RFM.png) — Dashboard preview image
 
 ---
 
