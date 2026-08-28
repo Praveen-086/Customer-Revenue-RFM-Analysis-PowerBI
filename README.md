@@ -111,7 +111,7 @@ Based on the dashboard analysis:
 ## 📁 Project Files
 
 - [Customer Revenue RFM Analysis Dashboard.pbix](./Customer_Revenue_RFM_Analysis_Dashboard.pbix) — Power BI dashboard file
-- [BI_Project_RFM.png](./BI_Project_RFM.png) — Dashboard preview image
+- [BI_Project_RFM.png](./BI_Poject_RFM.png) — Dashboard preview image
 
 ---
 
